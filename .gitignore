@@ -1,0 +1,25 @@
+#node and semantic files
+node/
+node_modules/
+bower_components/
+dist/
+etc/
+.tmp
+
+target/
+
+#CK Editor
+exchange-admin/src/main/resources/static/ckeditor
+
+# Intellij files
+.idea/
+*.iml
+
+# For eclipse users
+.classpath
+.project
+.settings/
+bin/
+
+# OS specific
+.DS_Store
